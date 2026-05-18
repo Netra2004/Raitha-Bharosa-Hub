@@ -205,7 +205,7 @@ This project is developed for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-**Harsh / Netra GS**  
+**Netra GS**  
 Android Developer & Student
 
 GitHub Repository:  
