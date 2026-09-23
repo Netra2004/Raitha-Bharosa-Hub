@@ -107,20 +107,7 @@ git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
 5. Connect an Android device or start an emulator  
 6. Click the **Run ▶️** button  
 
----
 
-# 📸 Screenshots
-
-> Add your application screenshots here.
-
-Example Screens:
-- Home Screen
-- Login Screen
-- Crop Details Screen
-- Weather Information Screen
-- Farmer Dashboard
-
----
 
 # 🎯 Objectives of the Project
 
