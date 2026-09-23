@@ -1,4 +1,4 @@
-# Raitha-Bharosa-Hub
+
 # 🌾 Raitha Bharosa Hub
 
 Raitha Bharosa Hub is an Android-based agriculture support application developed to help farmers manage farming activities digitally and efficiently. The application provides a centralized platform for accessing agricultural information, crop details, government schemes, and farm management features.
