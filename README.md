@@ -5,6 +5,9 @@ Raitha Bharosa Hub is an Android-based agriculture support application developed
 
 This project was developed using Kotlin in Android Studio with modern Android development practices.
 
+GitHub Repository:  
+https://github.com/Netra2004/Raitha-Bharosa-Hub
+
 
 
 # 📱 Features
@@ -40,7 +43,6 @@ This project was developed using Kotlin in Android Studio with modern Android de
 - Easy navigation for users
 
 
-
 # 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -51,7 +53,6 @@ This project was developed using Kotlin in Android Studio with modern Android de
 | XML | UI Design |
 | Gradle | Build Management |
 | Git & GitHub | Version Control |
-
 
 
 # 📂 Project Structure
@@ -76,7 +77,6 @@ RaithaBharosa/
 ```
 
 
-
 # ⚙️ Installation Steps
 
 ## Prerequisites
@@ -89,14 +89,11 @@ Before running the project, make sure the following tools are installed:
 - Android SDK
 
 
-
 ## 🚀 Clone the Repository
 
 ```bash
 git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
 ```
-
-
 
 ## ▶️ Run the Project
 
@@ -130,21 +127,6 @@ Through this project, the following skills and concepts were learned:
 - Real-world problem-solving using technology
 
 
-
-# 🔍 Future Enhancements
-
-The following features can be added in future versions:
-
-- AI-based crop recommendation system
-- Live market price updates
-- Multi-language support
-- Chat support for farmers
-- Disease detection using image processing
-- GPS-based farm tracking
-- Push notifications for alerts and updates
-
-
-
 # 🧪 Testing
 
 The application was tested for:
@@ -154,7 +136,6 @@ The application was tested for:
 - Navigation flow
 - Input validations
 - Performance on Android devices
-
 
 
 # 📚 Use Case
@@ -181,21 +162,15 @@ If you would like to contribute:
 5. Open a Pull Request  
 
 
-
 # 📝 License
 
 This project is developed for educational and learning purposes.
 
----
 
 # 👨‍💻 Developer
 
 **Netra GS**  
 Android Developer & Student
-
-GitHub Repository:  
-https://github.com/Netra2004/Raitha-Bharosa-Hub
-
 
 
 # ⭐ Support
