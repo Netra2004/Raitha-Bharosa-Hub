@@ -5,7 +5,7 @@ Raitha Bharosa Hub is an Android-based agriculture support application developed
 
 This project was developed using Kotlin in Android Studio with modern Android development practices.
 
----
+
 
 # 📱 Features
 
@@ -39,7 +39,7 @@ This project was developed using Kotlin in Android Studio with modern Android de
 - Clean and simple UI design
 - Easy navigation for users
 
----
+
 
 # 🛠️ Technologies Used
 
@@ -52,7 +52,7 @@ This project was developed using Kotlin in Android Studio with modern Android de
 | Gradle | Build Management |
 | Git & GitHub | Version Control |
 
----
+
 
 # 📂 Project Structure
 
@@ -75,7 +75,7 @@ RaithaBharosa/
 └── README.md
 ```
 
----
+
 
 # ⚙️ Installation Steps
 
@@ -88,7 +88,7 @@ Before running the project, make sure the following tools are installed:
 - Git
 - Android SDK
 
----
+
 
 ## 🚀 Clone the Repository
 
@@ -96,7 +96,7 @@ Before running the project, make sure the following tools are installed:
 git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
 ```
 
----
+
 
 ## ▶️ Run the Project
 
@@ -108,7 +108,6 @@ git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
 6. Click the **Run ▶️** button  
 
 
-
 # 🎯 Objectives of the Project
 
 - To digitalize agricultural support systems
@@ -117,7 +116,7 @@ git clone https://github.com/Netra2004/Raitha-Bharosa-Hub.git
 - To simplify crop and farm management
 - To promote smart agriculture practices
 
----
+
 
 # 📖 Learning Outcomes
 
@@ -130,7 +129,7 @@ Through this project, the following skills and concepts were learned:
 - Mobile application architecture
 - Real-world problem-solving using technology
 
----
+
 
 # 🔍 Future Enhancements
 
@@ -144,7 +143,7 @@ The following features can be added in future versions:
 - GPS-based farm tracking
 - Push notifications for alerts and updates
 
----
+
 
 # 🧪 Testing
 
@@ -156,7 +155,7 @@ The application was tested for:
 - Input validations
 - Performance on Android devices
 
----
+
 
 # 📚 Use Case
 
@@ -168,7 +167,6 @@ Raitha Bharosa Hub can be used by:
 - Rural development organizations
 - Smart farming initiatives
 
----
 
 # 🤝 Contribution
 
@@ -182,7 +180,7 @@ If you would like to contribute:
 4. Push to the branch  
 5. Open a Pull Request  
 
----
+
 
 # 📝 License
 
@@ -198,13 +196,13 @@ Android Developer & Student
 GitHub Repository:  
 https://github.com/Netra2004/Raitha-Bharosa-Hub
 
----
+
 
 # ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
 
----
+
 
 # 📌 Conclusion
 
