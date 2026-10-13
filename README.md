@@ -156,7 +156,7 @@ This project is developed for educational and learning purposes.
 
 # 👨‍💻 Developer
 
-**Netra GS**  
+**G S Netra**  
 Android Developer & Student
 
 
